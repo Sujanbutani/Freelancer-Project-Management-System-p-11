@@ -25,7 +25,7 @@ This is a simple backend for a task-freelancer project management system built w
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Sujanbutani/Education-Management-System-p-9.git
+   git clone https://github.com/Sujanbutani/Freelancer-Project-Management-System-p-11.git
 
 2. Install dependencies:
 
